@@ -17,7 +17,7 @@ The repository reproduces the complete analytical workflow of the manuscript:
    classical heuristics, QAOA parameter optimisation, execution on IQM Garnet, and scoring of the raw
    hardware counts against exact optima and equal-budget random sampling.
 
-Archived version: Zenodo DOI `10.5281/zenodo.XXXXXXX` (added after the first release).
+Archived version: Zenodo DOI `10.5281/zenodo.23660505` (added after the first release).
 
 ---
 
