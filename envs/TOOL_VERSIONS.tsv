@@ -1,0 +1,17 @@
+tool	version	conda_env	used_by
+STAR	2.7.11b	lmna_rmats	01 alignment / index
+samtools (htslib)	1.22.1	lmna_rmats	01 BAM handling, markdup, test-subset extraction
+rMATS (rmats.py)	4.3.0	lmna_rmats	01 differential splicing
+FastQC	0.12.1	rnaseq	01 raw-read QC
+MultiQC	1.34	rnaseq	01 QC aggregation
+featureCounts (Subread)	2.1.1	rnaseq	01 gene counts
+salmon	1.11.4	rnaseq	01 transcript quantification
+picard	3.4.0	rnaseq	01 GSE198983 RNA-seq metrics / MarkDuplicates
+RSeQC	5.0.4	rnaseq	01 post-alignment QC, strandedness
+pigz	2.8	rnaseq	01 decompression
+fastp	1.1.0	lmna_tools	01 adapter/quality trimming
+Qualimap	2.3	lmna_tools	01 optional BAM QC (SKIP_QUALIMAP)
+bedtools	2.31.1	lmna_tools	defined in config
+stringtie	3.0.3	lmna_tools	defined in config
+R	4.5.3	lmna_r	all R scripts (see R_sessionInfo_lmna_r.txt)
+Python	3.11.15	iqm_env	04 IQM / QAOA scripts

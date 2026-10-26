@@ -1,0 +1,22 @@
+{
+    "read_files": "[ [ /home/byunjongwon/lmna_rnaseq/results/02_trimmed/SRR13517687_1.trim.fastq.gz, /home/byunjongwon/lmna_rnaseq/results/02_trimmed/SRR13517687_2.trim.fastq.gz], [ /home/byunjongwon/lmna_rnaseq/results/02_trimmed/SRR13517688_1.trim.fastq.gz, /home/byunjongwon/lmna_rnaseq/results/02_trimmed/SRR13517688_2.trim.fastq.gz] ]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 18502269,
+    "num_assigned_fragments": 18502269,
+    "num_frags_with_concordant_consistent_mappings": 18142098,
+    "num_frags_with_inconsistent_or_orphan_mappings": 361372,
+    "strand_mapping_bias": 0.00001659097013575768,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 301,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 18142098,
+    "SF": 144011,
+    "SR": 217060,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

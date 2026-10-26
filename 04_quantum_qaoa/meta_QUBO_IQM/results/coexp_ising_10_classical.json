@@ -1,0 +1,21 @@
+{
+  "instance": "coexp_ising_10",
+  "E_ref": -7.686692829566416,
+  "ref_source": "exact",
+  "E_random_mean": 5.121584567746785,
+  "E_greedy": null,
+  "E_SA": null,
+  "E_GA": null,
+  "x_opt": [
+    1,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1
+  ]
+}

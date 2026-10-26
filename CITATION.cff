@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this archived version."
+title: "HGPS cross-dataset meta-analysis and IQM QAOA benchmark: analysis code"
+version: 1.0.0
+date-released: 2026-10-23
+license: MIT
+authors:
+  - family-names: Jeong
+    given-names: Yeojeong
+    affiliation: "Korea Research Institute of Bioscience and Biotechnology (KRIBB); Chung-Ang University"
+  - family-names: Byun
+    given-names: Jongwon
+    affiliation: "Korea Research Institute of Bioscience and Biotechnology (KRIBB); University of Science and Technology (UST)"
+  - family-names: Kim
+    given-names: Youngsim
+    affiliation: "IQM Quantum Computers"
+  - family-names: Moon
+    given-names: Sung-Hwan
+    affiliation: "Chung-Ang University"
+  - family-names: Kwon
+    given-names: Taeho
+    affiliation: "Korea Research Institute of Bioscience and Biotechnology (KRIBB); University of Science and Technology (UST)"
+keywords:
+  - Hutchinson-Gilford progeria syndrome
+  - meta-analysis
+  - RNA-seq
+  - QUBO
+  - QAOA
+  - IQM
+preferred-citation:
+  type: article
+  title: "Cross-Dataset Transcriptomic Analysis of Shared HGPS Features and Exploratory Quantum Network Benchmarking"
+  authors:
+    - family-names: Jeong
+      given-names: Yeojeong
+    - family-names: Byun
+      given-names: Jongwon
+    - family-names: Kim
+      given-names: Youngsim
+    - family-names: Moon
+      given-names: Sung-Hwan
+    - family-names: Kwon
+      given-names: Taeho
+  year: 2026
+  notes: "Manuscript under review; journal, volume and DOI to be added on publication."

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    "OGN",
+    "PTN",
+    "SFRP1",
+    "WNT2"
+  ],
+  "lfc": {
+    "OGN": -1.83724414542242,
+    "PTN": 1.10419214897461,
+    "SFRP1": 1.36742742220371,
+    "WNT2": -1.03933021794488
+  },
+  "isolated_removed": [
+    "GULP1",
+    "COMP",
+    "ARHGAP20",
+    "GCNT4",
+    "ACKR4",
+    "EEPD1",
+    "TSHZ2",
+    "MAFB",
+    "CHI3L2",
+    "CSGALNACT1",
+    "TENT5C",
+    "NDRG2",
+    "AGTR1",
+    "FENDRR",
+    "ENPP4",
+    "MALL",
+    "RAB39B",
+    "MYB",
+    "PPL",
+    "KLHDC7B",
+    "ST6GALNAC3",
+    "SELENOP",
+    "G0S2",
+    "THRB",
+    "KCNN4",
+    "STK26"
+  ],
+  "n_qubits": 4
+}

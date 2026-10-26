@@ -1,0 +1,62 @@
+[
+  {
+    "instance": "string_maxcut_19",
+    "n_qubits": 19,
+    "p": 1,
+    "device": "Apollo/Garnet",
+    "theta": [
+      2.7799942058265303,
+      0.8921751173445106
+    ],
+    "ratio_noiseless": 0.4095326180320657,
+    "ratio_noisy_mean": 0.22642855630226028,
+    "ratio_noisy_best": 0.9797223024119909,
+    "reached_optimum": false
+  },
+  {
+    "instance": "string_maxcut_19",
+    "n_qubits": 19,
+    "p": 2,
+    "device": "Apollo/Garnet",
+    "theta": [
+      2.692255995685628,
+      1.3142319117503043,
+      0.7059066067733112,
+      1.3196292133896714
+    ],
+    "ratio_noiseless": 0.5704631661587061,
+    "ratio_noisy_mean": 0.21536331908139703,
+    "ratio_noisy_best": 1.0,
+    "reached_optimum": true
+  },
+  {
+    "instance": "coexp_ising_16",
+    "n_qubits": 16,
+    "p": 1,
+    "device": "Apollo/Garnet",
+    "theta": [
+      1.0830723308771837,
+      0.3525385876757375
+    ],
+    "ratio_noiseless": 0.3510673748995145,
+    "ratio_noisy_mean": 0.09663786050415521,
+    "ratio_noisy_best": 1.0,
+    "reached_optimum": true
+  },
+  {
+    "instance": "coexp_ising_16",
+    "n_qubits": 16,
+    "p": 2,
+    "device": "Apollo/Garnet",
+    "theta": [
+      1.0108743491405316,
+      3.0165815456756437,
+      0.3952204191157622,
+      0.55665976871183
+    ],
+    "ratio_noiseless": 0.3833407159293205,
+    "ratio_noisy_mean": 0.02665980952603209,
+    "ratio_noisy_best": 1.0,
+    "reached_optimum": true
+  }
+]

@@ -1,0 +1,9 @@
+sample	gsm	srr	group	replicate
+Control_1	GSM5961979	SRR18352949	Control	1
+Control_2	GSM5961980	SRR18352948	Control	2
+Control_3	GSM5961981	SRR18352947	Control	3
+Control_4	GSM5961982	SRR18352946	Control	4
+Progerin_1	GSM5961983	SRR18352945	Progerin	1
+Progerin_2	GSM5961984	SRR18352944	Progerin	2
+Progerin_3	GSM5961985	SRR18352943	Progerin	3
+Progerin_4	GSM5961986	SRR18352942	Progerin	4

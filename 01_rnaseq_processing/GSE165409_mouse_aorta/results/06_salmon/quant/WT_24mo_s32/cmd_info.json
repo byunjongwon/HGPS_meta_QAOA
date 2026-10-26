@@ -1,0 +1,21 @@
+{
+    "salmon_version": "1.11.4",
+    "index": "/home/byunjongwon/lmna_rnaseq/ref/salmon_index",
+    "libType": "A",
+    "mates1": [
+        "/home/byunjongwon/lmna_rnaseq/results/02_trimmed/SRR13517681_1.trim.fastq.gz",
+        "/home/byunjongwon/lmna_rnaseq/results/02_trimmed/SRR13517682_1.trim.fastq.gz"
+    ],
+    "mates2": [
+        "/home/byunjongwon/lmna_rnaseq/results/02_trimmed/SRR13517681_2.trim.fastq.gz",
+        "/home/byunjongwon/lmna_rnaseq/results/02_trimmed/SRR13517682_2.trim.fastq.gz"
+    ],
+    "threads": "18",
+    "validateMappings": [],
+    "seqBias": [],
+    "gcBias": [],
+    "posBias": [],
+    "numGibbsSamples": "20",
+    "output": "/home/byunjongwon/lmna_rnaseq/results/06_salmon/quant/WT_24mo_s32",
+    "auxDir": "aux_info"
+}

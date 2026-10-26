@@ -1,0 +1,11 @@
+instance	n_qubits	device	p	twoq_ideal	twoq_hw	oneq_hw	swap_x	depth	err2q	fidelity	t_shot_s	transpile_s
+string_maxcut_19	19	IQMFakeApollo (20q, Garnet급)	1	52	76	169	1.46	77	0.0138	0.34780823685764095	0.0002607	0.5
+string_maxcut_19	19	IQMFakeApollo (20q, Garnet급)	2	104	156	354	1.5	159	0.0138	0.11442995270416181	0.0002689	0.0
+string_maxcut_19	19	IQMFakeAphrodite (54q, Emerald급)	1	52	85	190	1.63	93	0.015	0.27674487838439155	0.0002623	0.0
+string_maxcut_19	19	IQMFakeAphrodite (54q, Emerald급)	2	104	144	326	1.38	154	0.015	0.11345331541019857	0.0002684	0.0
+coexp_ising_16	16	IQMFakeApollo (20q, Garnet급)	1	94	164	320	1.74	208	0.0138	0.10239050948255765	0.0002738	0.0
+coexp_ising_16	16	IQMFakeApollo (20q, Garnet급)	2	188	359	724	1.91	405	0.0138	0.006814505588769532	0.0002935	0.0
+coexp_ising_16	16	IQMFakeAphrodite (54q, Emerald급)	1	94	165	332	1.76	194	0.015	0.08259961672014245	0.0002724	0.0
+coexp_ising_16	16	IQMFakeAphrodite (54q, Emerald급)	2	188	364	732	1.94	390	0.015	0.004081200217550759	0.000292	0.0
+coexp_ising_34	34	IQMFakeAphrodite (54q, Emerald급)	1	208	509	1022	2.45	348	0.015	0.00045608031010094794	0.0002878	0.1
+coexp_ising_34	34	IQMFakeAphrodite (54q, Emerald급)	2	416	1085	2201	2.61	828	0.015	7.556315623815997e-08	0.00033580000000000003	0.1

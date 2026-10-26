@@ -1,0 +1,5 @@
+Description	GeneRatio	p.adjust	Count	geneID
+lipid export from cell	3/32	0.0456650955630688	3	PTGES/AGTR1/MYB
+regulation of lipid transport	4/32	0.0456650955630688	4	EEPD1/PTGES/AGTR1/MYB
+lipid transport	6/32	0.0456650955630688	6	GULP1/EEPD1/PTGES/AGTR1/MYB/KCNN4
+lipid localization	6/32	0.0456650955630688	6	GULP1/EEPD1/PTGES/AGTR1/MYB/KCNN4

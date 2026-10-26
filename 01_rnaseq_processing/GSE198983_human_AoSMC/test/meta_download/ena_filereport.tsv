@@ -1,0 +1,2 @@
+run_accession	experiment_accession	sample_accession	sample_title	sample_alias	library_layout	library_strategy	instrument_model	read_count	base_count	fastq_ftp	fastq_md5	fastq_bytes
+SRR19598819	SRX15650195	SAMN28938782	sc-Patch-seq,Red only,Regenerating CSMN98	GSM6226012	PAIRED	RNA-Seq	Illumina NovaSeq 6000	15	4500	ftp.sra.ebi.ac.uk/vol1/fastq/SRR195/019/SRR19598819/SRR19598819_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR195/019/SRR19598819/SRR19598819_2.fastq.gz	8e745ba9f4b5a2666cbb195ffea69c5d;498fcc8c03c7c0e89d1f002784a7c499	983;1075

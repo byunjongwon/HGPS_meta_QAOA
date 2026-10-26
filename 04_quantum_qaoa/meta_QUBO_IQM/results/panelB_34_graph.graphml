@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d0" for="node" attr.name="lfc" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="SFRP1">
+      <data key="d0">1.36742742220371</data>
+    </node>
+    <node id="OGN">
+      <data key="d0">-1.83724414542242</data>
+    </node>
+    <node id="WNT2">
+      <data key="d0">-1.03933021794488</data>
+    </node>
+    <node id="PTN">
+      <data key="d0">1.10419214897461</data>
+    </node>
+    <edge source="SFRP1" target="WNT2">
+      <data key="d1">0.928</data>
+    </edge>
+    <edge source="OGN" target="PTN">
+      <data key="d1">0.483</data>
+    </edge>
+    <edge source="WNT2" target="PTN">
+      <data key="d1">0.449</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,27 @@
+{
+  "nodes": [
+    "SFRP1",
+    "WNT2"
+  ],
+  "lfc": {
+    "SFRP1": 1.36742742220371,
+    "WNT2": -1.03933021794488
+  },
+  "isolated_removed": [
+    "GCNT4",
+    "TSHZ2",
+    "OGN",
+    "CSGALNACT1",
+    "PTGES",
+    "TENT5C",
+    "NDRG2",
+    "CAMK2B",
+    "RAB39B",
+    "PPL",
+    "ST6GALNAC3",
+    "SELENOP",
+    "G0S2",
+    "THRB"
+  ],
+  "n_qubits": 2
+}

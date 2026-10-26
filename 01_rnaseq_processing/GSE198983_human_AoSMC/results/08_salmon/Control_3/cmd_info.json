@@ -1,0 +1,14 @@
+{
+    "salmon_version": "1.11.4",
+    "index": "/home/byunjongwon/progerin_rnaseq/ref/salmon_index",
+    "libType": "A",
+    "mates1": "/home/byunjongwon/progerin_rnaseq/results/04_trimmed/SRR18352947_1.trim.fastq.gz",
+    "mates2": "/home/byunjongwon/progerin_rnaseq/results/04_trimmed/SRR18352947_2.trim.fastq.gz",
+    "output": "/home/byunjongwon/progerin_rnaseq/results/08_salmon/Control_3",
+    "threads": "18",
+    "validateMappings": [],
+    "seqBias": [],
+    "gcBias": [],
+    "numGibbsSamples": "30",
+    "auxDir": "aux_info"
+}

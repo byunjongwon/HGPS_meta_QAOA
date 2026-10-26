@@ -1,0 +1,11 @@
+device	grid	p	depth_alltoall	twoq_alltoall	depth_grid	twoq_grid	swap_overhead	transpile_sec	instance	n_qubits
+IQM Garnet	4x5	1	32	52	149	76	1.46	0.7	string_maxcut_19	19
+IQM Garnet	4x5	2	57	104	234	149	1.43	0.0	string_maxcut_19	19
+IQM Emerald	6x9	1	32	52	118	79	1.52	0.0	string_maxcut_19	19
+IQM Emerald	6x9	2	57	104	229	155	1.49	0.0	string_maxcut_19	19
+IQM Garnet	4x5	1	53	94	292	161	1.71	0.0	coexp_ising_16	16
+IQM Garnet	4x5	2	87	188	624	353	1.88	0.0	coexp_ising_16	16
+IQM Emerald	6x9	1	53	94	256	158	1.68	0.0	coexp_ising_16	16
+IQM Emerald	6x9	2	87	188	479	342	1.82	0.0	coexp_ising_16	16
+IQM Emerald	6x9	1	74	208	550	504	2.42	0.0	coexp_ising_34	34
+IQM Emerald	6x9	2	120	416	1066	1097	2.64	0.0	coexp_ising_34	34

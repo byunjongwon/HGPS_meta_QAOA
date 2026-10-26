@@ -1,0 +1,15 @@
+Status	/home/byunjongwon/lmna_rnaseq/results/03_star/LMNA_02mo_s19.Aligned.sortedByCoord.out.bam	/home/byunjongwon/lmna_rnaseq/results/03_star/LMNA_02mo_s22.Aligned.sortedByCoord.out.bam	/home/byunjongwon/lmna_rnaseq/results/03_star/LMNA_02mo_s23.Aligned.sortedByCoord.out.bam	/home/byunjongwon/lmna_rnaseq/results/03_star/LMNA_02mo_s48.Aligned.sortedByCoord.out.bam	/home/byunjongwon/lmna_rnaseq/results/03_star/LMNA_02mo_s49.Aligned.sortedByCoord.out.bam	/home/byunjongwon/lmna_rnaseq/results/03_star/LMNA_02mo_s50.Aligned.sortedByCoord.out.bam	/home/byunjongwon/lmna_rnaseq/results/03_star/WT_02mo_s41.Aligned.sortedByCoord.out.bam	/home/byunjongwon/lmna_rnaseq/results/03_star/WT_02mo_s42.Aligned.sortedByCoord.out.bam	/home/byunjongwon/lmna_rnaseq/results/03_star/WT_02mo_s43.Aligned.sortedByCoord.out.bam	/home/byunjongwon/lmna_rnaseq/results/03_star/WT_02mo_s44.Aligned.sortedByCoord.out.bam	/home/byunjongwon/lmna_rnaseq/results/03_star/WT_02mo_s45.Aligned.sortedByCoord.out.bam	/home/byunjongwon/lmna_rnaseq/results/03_star/WT_02mo_s46.Aligned.sortedByCoord.out.bam	/home/byunjongwon/lmna_rnaseq/results/03_star/WT_24mo_s24.Aligned.sortedByCoord.out.bam	/home/byunjongwon/lmna_rnaseq/results/03_star/WT_24mo_s25.Aligned.sortedByCoord.out.bam	/home/byunjongwon/lmna_rnaseq/results/03_star/WT_24mo_s28.Aligned.sortedByCoord.out.bam	/home/byunjongwon/lmna_rnaseq/results/03_star/WT_24mo_s31.Aligned.sortedByCoord.out.bam	/home/byunjongwon/lmna_rnaseq/results/03_star/WT_24mo_s32.Aligned.sortedByCoord.out.bam	/home/byunjongwon/lmna_rnaseq/results/03_star/WT_24mo_s34.Aligned.sortedByCoord.out.bam
+Assigned	12694627	17836514	15806013	19198137	16954425	14673065	15414990	12659017	10410616	8923691	13685228	14204802	12856878	10064867	13258302	13720219	14984694	11652347
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	4723841	5670873	5636846	4583216	4662859	4891398	4334930	2986514	2826289	2524228	4199212	4560703	3583860	2849290	3488594	3715248	3869276	3302928
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	1479096	1832145	1356639	1968615	1305061	1529990	1307463	1150097	1121400	958157	1584720	902317	2045527	1068149	1192654	1854801	1761339	1256038
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	219335	275803	271498	272430	269826	262382	230239	171443	145753	134836	209268	225086	185471	145626	185327	184609	184830	154382

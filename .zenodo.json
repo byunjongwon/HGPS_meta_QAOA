@@ -1,0 +1,21 @@
+{
+  "title": "HGPS cross-dataset meta-analysis and IQM QAOA benchmark: analysis code",
+  "upload_type": "software",
+  "description": "<p>Analysis code, intermediate results and raw IQM Garnet measurement counts for the manuscript <em>Cross-Dataset Transcriptomic Analysis of Shared HGPS Features and Exploratory Quantum Network Benchmarking</em> (Jeong, Byun et al.). The workflow covers dataset-specific differential expression of GSE306264, GSE231761, GSE198983 and GSE165409, a gene-wise random-effects meta-analysis of the three human datasets with a donor-aware sensitivity analysis for GSE231761, Hallmark/GO enrichment, cross-species comparison with Lmna G609G mouse aorta, construction of STRING Max-Cut and co-expression Ising QUBO instances, exact and classical baselines, QAOA on IQM Garnet, and scoring against exact optima and equal-budget random sampling. See README.md.</p>",
+  "creators": [
+    {"name": "Jeong, Yeojeong", "affiliation": "Korea Research Institute of Bioscience and Biotechnology (KRIBB); Chung-Ang University"},
+    {"name": "Byun, Jongwon", "affiliation": "Korea Research Institute of Bioscience and Biotechnology (KRIBB); University of Science and Technology (UST)"},
+    {"name": "Kim, Youngsim", "affiliation": "IQM Quantum Computers"},
+    {"name": "Moon, Sung-Hwan", "affiliation": "Chung-Ang University"},
+    {"name": "Kwon, Taeho", "affiliation": "Korea Research Institute of Bioscience and Biotechnology (KRIBB); University of Science and Technology (UST)"}
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": ["Hutchinson-Gilford progeria syndrome", "meta-analysis", "RNA-seq", "QUBO", "QAOA", "IQM"],
+  "related_identifiers": [
+    {"identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE306264", "relation": "isDerivedFrom", "resource_type": "dataset"},
+    {"identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE231761", "relation": "isDerivedFrom", "resource_type": "dataset"},
+    {"identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE198983", "relation": "isDerivedFrom", "resource_type": "dataset"},
+    {"identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165409", "relation": "isDerivedFrom", "resource_type": "dataset"}
+  ]
+}

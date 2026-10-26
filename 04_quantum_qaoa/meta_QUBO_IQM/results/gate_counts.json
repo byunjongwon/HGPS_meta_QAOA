@@ -1,0 +1,56 @@
+{
+  "coexp_ising_8_p1": {
+    "instance": "coexp_ising_8",
+    "n_qubits": 8,
+    "depth": 1,
+    "edges": 13,
+    "logical_2q": 26,
+    "transpiled_2q": 31,
+    "circuit_depth": 37
+  },
+  "coexp_ising_8_p2": {
+    "instance": "coexp_ising_8",
+    "n_qubits": 8,
+    "depth": 2,
+    "edges": 13,
+    "logical_2q": 52,
+    "transpiled_2q": 71,
+    "circuit_depth": 73
+  },
+  "coexp_ising_16_p1": {
+    "instance": "coexp_ising_16",
+    "n_qubits": 16,
+    "depth": 1,
+    "edges": 47,
+    "logical_2q": 94,
+    "transpiled_2q": 156,
+    "circuit_depth": 153
+  },
+  "coexp_ising_16_p2": {
+    "instance": "coexp_ising_16",
+    "n_qubits": 16,
+    "depth": 2,
+    "edges": 47,
+    "logical_2q": 188,
+    "transpiled_2q": 355,
+    "circuit_depth": 308
+  },
+  "string_maxcut_19_p1": {
+    "instance": "string_maxcut_19",
+    "n_qubits": 19,
+    "depth": 1,
+    "edges": 26,
+    "logical_2q": 52,
+    "transpiled_2q": 76,
+    "circuit_depth": 60
+  },
+  "string_maxcut_19_p2": {
+    "instance": "string_maxcut_19",
+    "n_qubits": 19,
+    "depth": 2,
+    "edges": 26,
+    "logical_2q": 104,
+    "transpiled_2q": 156,
+    "circuit_depth": 121
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "budget_s": 60.0,
+  "shots": 4096,
+  "estimated_total_s": 11.532697600000002,
+  "jobs": [
+    {
+      "instance": "string_maxcut_19",
+      "device": "Garnet(20q)",
+      "p": 1,
+      "shots": 4096,
+      "fidelity": 0.3478,
+      "twoq": 76,
+      "depth": 77,
+      "est_seconds": 1.07
+    },
+    {
+      "instance": "string_maxcut_19",
+      "device": "Emerald(54q)",
+      "p": 1,
+      "shots": 4096,
+      "fidelity": 0.2767,
+      "twoq": 85,
+      "depth": 93,
+      "est_seconds": 1.07
+    },
+    {
+      "instance": "string_maxcut_19",
+      "device": "Garnet(20q)",
+      "p": 2,
+      "shots": 4096,
+      "fidelity": 0.1144,
+      "twoq": 156,
+      "depth": 159,
+      "est_seconds": 1.1
+    },
+    {
+      "instance": "string_maxcut_19",
+      "device": "Emerald(54q)",
+      "p": 2,
+      "shots": 4096,
+      "fidelity": 0.1135,
+      "twoq": 144,
+      "depth": 154,
+      "est_seconds": 1.1
+    },
+    {
+      "instance": "coexp_ising_16",
+      "device": "Garnet(20q)",
+      "p": 1,
+      "shots": 4096,
+      "fidelity": 0.1024,
+      "twoq": 164,
+      "depth": 208,
+      "est_seconds": 1.12
+    },
+    {
+      "instance": "coexp_ising_16",
+      "device": "Emerald(54q)",
+      "p": 1,
+      "shots": 4096,
+      "fidelity": 0.0826,
+      "twoq": 165,
+      "depth": 194,
+      "est_seconds": 1.12
+    },
+    {
+      "instance": "coexp_ising_16",
+      "device": "Garnet(20q)",
+      "p": 2,
+      "shots": 4096,
+      "fidelity": 0.0068,
+      "twoq": 359,
+      "depth": 405,
+      "est_seconds": 1.2
+    },
+    {
+      "instance": "coexp_ising_16",
+      "device": "Emerald(54q)",
+      "p": 2,
+      "shots": 4096,
+      "fidelity": 0.0041,
+      "twoq": 364,
+      "depth": 390,
+      "est_seconds": 1.2
+    },
+    {
+      "instance": "coexp_ising_34",
+      "device": "Emerald(54q)",
+      "p": 1,
+      "shots": 4096,
+      "fidelity": 0.0005,
+      "twoq": 509,
+      "depth": 348,
+      "est_seconds": 1.18
+    },
+    {
+      "instance": "coexp_ising_34",
+      "device": "Emerald(54q)",
+      "p": 2,
+      "shots": 4096,
+      "fidelity": 0.0,
+      "twoq": 1085,
+      "depth": 828,
+      "est_seconds": 1.38
+    }
+  ],
+  "timing_assumptions": {
+    "t_1q_s": 4e-08,
+    "t_2q_s": 1e-07,
+    "t_readout_s": 3e-06,
+    "t_reset_s": 0.00025
+  }
+}

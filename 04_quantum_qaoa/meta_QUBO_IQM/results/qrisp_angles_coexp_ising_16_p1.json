@@ -1,0 +1,36 @@
+{
+  "instance": "coexp_ising_16",
+  "depth": 1,
+  "theta": [
+    1.1190305228045756,
+    1.09020478803273
+  ],
+  "train_seconds": 38.1,
+  "local": {
+    "n_states": 3128,
+    "shots": 1.0,
+    "E_mean": 3.8858350370945054,
+    "E_best": -13.668380275629659,
+    "ratio_mean": 0.3096676194507382,
+    "ratio_best": 1.0,
+    "reached_optimum": true
+  },
+  "best_bits": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0
+  ]
+}

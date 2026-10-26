@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d0" for="node" attr.name="lfc" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="OGN">
+      <data key="d0">-1.83724414542242</data>
+    </node>
+    <node id="LYN">
+      <data key="d0">0.986814999391575</data>
+    </node>
+    <node id="PTN">
+      <data key="d0">1.10419214897461</data>
+    </node>
+    <node id="WNT2">
+      <data key="d0">-1.03933021794488</data>
+    </node>
+    <node id="TENT5C">
+      <data key="d0">-1.27416265330809</data>
+    </node>
+    <node id="WNT5A">
+      <data key="d0">0.943735347590824</data>
+    </node>
+    <node id="FGFR3">
+      <data key="d0">0.956224443590153</data>
+    </node>
+    <node id="PECAM1">
+      <data key="d0">-0.970892487904328</data>
+    </node>
+    <node id="AGTR1">
+      <data key="d0">1.16483994992084</data>
+    </node>
+    <node id="PTGES">
+      <data key="d0">1.07268147814558</data>
+    </node>
+    <node id="SFRP1">
+      <data key="d0">1.36742742220371</data>
+    </node>
+    <node id="MAFB">
+      <data key="d0">-1.40873489917008</data>
+    </node>
+    <node id="GAS6">
+      <data key="d0">-0.88336988964449</data>
+    </node>
+    <node id="IL1A">
+      <data key="d0">1.42833346606777</data>
+    </node>
+    <node id="CAMK2B">
+      <data key="d0">-1.31422551240632</data>
+    </node>
+    <node id="ACVRL1">
+      <data key="d0">-0.901694412046003</data>
+    </node>
+    <node id="PLCB1">
+      <data key="d0">0.878732412236279</data>
+    </node>
+    <node id="PDE4D">
+      <data key="d0">0.960121691555197</data>
+    </node>
+    <node id="SNAP25">
+      <data key="d0">1.90998121765269</data>
+    </node>
+    <edge source="OGN" target="PTN">
+      <data key="d1">0.483</data>
+    </edge>
+    <edge source="LYN" target="WNT5A">
+      <data key="d1">0.465</data>
+    </edge>
+    <edge source="LYN" target="PLCB1">
+      <data key="d1">0.457</data>
+    </edge>
+    <edge source="LYN" target="PDE4D">
+      <data key="d1">0.615</data>
+    </edge>
+    <edge source="LYN" target="PECAM1">
+      <data key="d1">0.802</data>
+    </edge>
+    <edge source="PTN" target="WNT2">
+      <data key="d1">0.449</data>
+    </edge>
+    <edge source="WNT2" target="SFRP1">
+      <data key="d1">0.928</data>
+    </edge>
+    <edge source="WNT2" target="WNT5A">
+      <data key="d1">0.711</data>
+    </edge>
+    <edge source="WNT2" target="PECAM1">
+      <data key="d1">0.516</data>
+    </edge>
+    <edge source="TENT5C" target="FGFR3">
+      <data key="d1">0.447</data>
+    </edge>
+    <edge source="WNT5A" target="SFRP1">
+      <data key="d1">0.963</data>
+    </edge>
+    <edge source="WNT5A" target="IL1A">
+      <data key="d1">0.422</data>
+    </edge>
+    <edge source="WNT5A" target="PECAM1">
+      <data key="d1">0.407</data>
+    </edge>
+    <edge source="WNT5A" target="MAFB">
+      <data key="d1">0.431</data>
+    </edge>
+    <edge source="WNT5A" target="AGTR1">
+      <data key="d1">0.451</data>
+    </edge>
+    <edge source="WNT5A" target="PLCB1">
+      <data key="d1">0.728</data>
+    </edge>
+    <edge source="FGFR3" target="PLCB1">
+      <data key="d1">0.65</data>
+    </edge>
+    <edge source="FGFR3" target="MAFB">
+      <data key="d1">0.541</data>
+    </edge>
+    <edge source="PECAM1" target="IL1A">
+      <data key="d1">0.533</data>
+    </edge>
+    <edge source="PECAM1" target="ACVRL1">
+      <data key="d1">0.448</data>
+    </edge>
+    <edge source="AGTR1" target="PLCB1">
+      <data key="d1">0.583</data>
+    </edge>
+    <edge source="PTGES" target="IL1A">
+      <data key="d1">0.467</data>
+    </edge>
+    <edge source="GAS6" target="IL1A">
+      <data key="d1">0.509</data>
+    </edge>
+    <edge source="CAMK2B" target="SNAP25">
+      <data key="d1">0.429</data>
+    </edge>
+    <edge source="CAMK2B" target="PLCB1">
+      <data key="d1">0.924</data>
+    </edge>
+    <edge source="CAMK2B" target="PDE4D">
+      <data key="d1">0.688</data>
+    </edge>
+  </graph>
+</graphml>

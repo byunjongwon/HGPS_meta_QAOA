@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /home/byunjongwon/progerin_rnaseq/results/04_trimmed/SRR18352944_1.trim.fastq.gz, /home/byunjongwon/progerin_rnaseq/results/04_trimmed/SRR18352944_2.trim.fastq.gz]",
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 16375561,
+    "num_assigned_fragments": 16375561,
+    "num_frags_with_concordant_consistent_mappings": 16549309,
+    "num_frags_with_inconsistent_or_orphan_mappings": 233198,
+    "strand_mapping_bias": 0.5020330456093364,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 8308300,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 8241009,
+    "SF": 123296,
+    "SR": 109902,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

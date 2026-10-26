@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="GULP1" />
+    <node id="COMP" />
+    <node id="ARHGAP20" />
+    <node id="GCNT4" />
+    <node id="SFRP1" />
+    <node id="ACKR4" />
+    <node id="EEPD1" />
+    <node id="SNAP25" />
+    <node id="TSHZ2" />
+    <node id="MAFB" />
+    <node id="PTN" />
+    <node id="CHI3L2" />
+    <node id="OGN" />
+    <node id="CSGALNACT1" />
+    <node id="PTGES" />
+    <node id="TENT5C" />
+    <node id="NDRG2" />
+    <node id="AGTR1" />
+    <node id="FENDRR" />
+    <node id="CAMK2B" />
+    <node id="IL1A" />
+    <node id="ENPP4" />
+    <node id="MALL" />
+    <node id="RAB39B" />
+    <node id="MYB" />
+    <node id="PPL" />
+    <node id="KLHDC7B" />
+    <node id="ST6GALNAC3" />
+    <node id="SELENOP" />
+    <node id="G0S2" />
+    <node id="THRB" />
+    <node id="WNT2" />
+    <node id="KCNN4" />
+    <node id="STK26" />
+    <edge source="GULP1" target="MAFB">
+      <data key="d0">-0.47523938962822204</data>
+    </edge>
+    <edge source="GULP1" target="PTGES">
+      <data key="d0">0.6180714879441832</data>
+    </edge>
+    <edge source="GULP1" target="CAMK2B">
+      <data key="d0">-0.49227623852259594</data>
+    </edge>
+    <edge source="GULP1" target="KLHDC7B">
+      <data key="d0">0.4748061045568435</data>
+    </edge>
+    <edge source="COMP" target="ACKR4">
+      <data key="d0">0.6701048364121405</data>
+    </edge>
+    <edge source="COMP" target="TSHZ2">
+      <data key="d0">0.7836615661866873</data>
+    </edge>
+    <edge source="COMP" target="CAMK2B">
+      <data key="d0">0.6849420104522688</data>
+    </edge>
+    <edge source="COMP" target="MALL">
+      <data key="d0">0.6253669113468463</data>
+    </edge>
+    <edge source="COMP" target="ST6GALNAC3">
+      <data key="d0">-0.5046935042481264</data>
+    </edge>
+    <edge source="COMP" target="THRB">
+      <data key="d0">0.663206504140912</data>
+    </edge>
+    <edge source="ARHGAP20" target="PTN">
+      <data key="d0">-0.5462254878101963</data>
+    </edge>
+    <edge source="ARHGAP20" target="AGTR1">
+      <data key="d0">-0.35660216007642115</data>
+    </edge>
+    <edge source="ARHGAP20" target="ENPP4">
+      <data key="d0">0.5499498363625973</data>
+    </edge>
+    <edge source="ARHGAP20" target="KCNN4">
+      <data key="d0">-0.34846231578847964</data>
+    </edge>
+    <edge source="GCNT4" target="SNAP25">
+      <data key="d0">0.3779883077038327</data>
+    </edge>
+    <edge source="GCNT4" target="CHI3L2">
+      <data key="d0">-0.41065529325944455</data>
+    </edge>
+    <edge source="GCNT4" target="RAB39B">
+      <data key="d0">0.4610906600970274</data>
+    </edge>
+    <edge source="GCNT4" target="PPL">
+      <data key="d0">-0.42574106123564764</data>
+    </edge>
+    <edge source="SFRP1" target="CHI3L2">
+      <data key="d0">0.624493992085492</data>
+    </edge>
+    <edge source="SFRP1" target="AGTR1">
+      <data key="d0">-0.6416664526189849</data>
+    </edge>
+    <edge source="SFRP1" target="FENDRR">
+      <data key="d0">0.5847012995835621</data>
+    </edge>
+    <edge source="SFRP1" target="ENPP4">
+      <data key="d0">0.5121461612916112</data>
+    </edge>
+    <edge source="SFRP1" target="PPL">
+      <data key="d0">0.5965116265712547</data>
+    </edge>
+    <edge source="ACKR4" target="CHI3L2">
+      <data key="d0">0.709144767041708</data>
+    </edge>
+    <edge source="ACKR4" target="OGN">
+      <data key="d0">0.6542943280124806</data>
+    </edge>
+    <edge source="ACKR4" target="CSGALNACT1">
+      <data key="d0">-0.3458224048773155</data>
+    </edge>
+    <edge source="ACKR4" target="NDRG2">
+      <data key="d0">0.8247046757698283</data>
+    </edge>
+    <edge source="ACKR4" target="AGTR1">
+      <data key="d0">-0.5947309821810169</data>
+    </edge>
+    <edge source="ACKR4" target="CAMK2B">
+      <data key="d0">0.8057861174083885</data>
+    </edge>
+    <edge source="ACKR4" target="MYB">
+      <data key="d0">-0.5746401162202932</data>
+    </edge>
+    <edge source="ACKR4" target="SELENOP">
+      <data key="d0">0.7235527365638218</data>
+    </edge>
+    <edge source="ACKR4" target="STK26">
+      <data key="d0">-0.6656249177747172</data>
+    </edge>
+    <edge source="EEPD1" target="TSHZ2">
+      <data key="d0">0.7478535458443042</data>
+    </edge>
+    <edge source="EEPD1" target="MAFB">
+      <data key="d0">0.6354077360875177</data>
+    </edge>
+    <edge source="EEPD1" target="TENT5C">
+      <data key="d0">0.6845620713062373</data>
+    </edge>
+    <edge source="EEPD1" target="NDRG2">
+      <data key="d0">0.7104210234612364</data>
+    </edge>
+    <edge source="EEPD1" target="CAMK2B">
+      <data key="d0">0.8403718717265226</data>
+    </edge>
+    <edge source="EEPD1" target="IL1A">
+      <data key="d0">-0.42486496064555723</data>
+    </edge>
+    <edge source="EEPD1" target="PPL">
+      <data key="d0">0.6992366772416927</data>
+    </edge>
+    <edge source="EEPD1" target="KLHDC7B">
+      <data key="d0">-0.7771976256170064</data>
+    </edge>
+    <edge source="EEPD1" target="G0S2">
+      <data key="d0">-0.38277959393831484</data>
+    </edge>
+    <edge source="EEPD1" target="THRB">
+      <data key="d0">0.7989466661572924</data>
+    </edge>
+    <edge source="EEPD1" target="WNT2">
+      <data key="d0">0.5864265226082648</data>
+    </edge>
+    <edge source="EEPD1" target="STK26">
+      <data key="d0">-0.5926629485059889</data>
+    </edge>
+    <edge source="SNAP25" target="PTN">
+      <data key="d0">0.3371044100510525</data>
+    </edge>
+    <edge source="SNAP25" target="FENDRR">
+      <data key="d0">0.5264877646171577</data>
+    </edge>
+    <edge source="SNAP25" target="G0S2">
+      <data key="d0">0.23429105089594915</data>
+    </edge>
+    <edge source="TSHZ2" target="PTN">
+      <data key="d0">-0.3970952766550804</data>
+    </edge>
+    <edge source="TSHZ2" target="CAMK2B">
+      <data key="d0">0.833987187670128</data>
+    </edge>
+    <edge source="TSHZ2" target="MALL">
+      <data key="d0">0.5864384105700579</data>
+    </edge>
+    <edge source="TSHZ2" target="THRB">
+      <data key="d0">0.7783866660388127</data>
+    </edge>
+    <edge source="TSHZ2" target="WNT2">
+      <data key="d0">0.5167258287529032</data>
+    </edge>
+    <edge source="MAFB" target="PTGES">
+      <data key="d0">-0.4984686079536363</data>
+    </edge>
+    <edge source="MAFB" target="NDRG2">
+      <data key="d0">0.591914293207368</data>
+    </edge>
+    <edge source="MAFB" target="IL1A">
+      <data key="d0">-0.5599661274751093</data>
+    </edge>
+    <edge source="MAFB" target="SELENOP">
+      <data key="d0">0.5950594378356887</data>
+    </edge>
+    <edge source="MAFB" target="THRB">
+      <data key="d0">0.6719739398942535</data>
+    </edge>
+    <edge source="PTN" target="FENDRR">
+      <data key="d0">0.4858755284677198</data>
+    </edge>
+    <edge source="PTN" target="WNT2">
+      <data key="d0">-0.414599732091154</data>
+    </edge>
+    <edge source="CHI3L2" target="CAMK2B">
+      <data key="d0">0.7412688086122232</data>
+    </edge>
+    <edge source="CHI3L2" target="PPL">
+      <data key="d0">0.7302809286694535</data>
+    </edge>
+    <edge source="CHI3L2" target="SELENOP">
+      <data key="d0">0.6846582757896886</data>
+    </edge>
+    <edge source="OGN" target="NDRG2">
+      <data key="d0">0.6880598494754515</data>
+    </edge>
+    <edge source="OGN" target="PPL">
+      <data key="d0">0.6618374939021712</data>
+    </edge>
+    <edge source="OGN" target="SELENOP">
+      <data key="d0">0.7445750191512536</data>
+    </edge>
+    <edge source="CSGALNACT1" target="TENT5C">
+      <data key="d0">-0.31309781044678225</data>
+    </edge>
+    <edge source="CSGALNACT1" target="G0S2">
+      <data key="d0">0.46463678109836</data>
+    </edge>
+    <edge source="CSGALNACT1" target="STK26">
+      <data key="d0">0.32493573098743933</data>
+    </edge>
+    <edge source="PTGES" target="IL1A">
+      <data key="d0">0.44957296085266985</data>
+    </edge>
+    <edge source="PTGES" target="MYB">
+      <data key="d0">0.5627405808365705</data>
+    </edge>
+    <edge source="PTGES" target="THRB">
+      <data key="d0">-0.5057156070828638</data>
+    </edge>
+    <edge source="TENT5C" target="NDRG2">
+      <data key="d0">0.6947000922963763</data>
+    </edge>
+    <edge source="TENT5C" target="FENDRR">
+      <data key="d0">0.6199333495139706</data>
+    </edge>
+    <edge source="TENT5C" target="KLHDC7B">
+      <data key="d0">-0.5771529989932265</data>
+    </edge>
+    <edge source="TENT5C" target="SELENOP">
+      <data key="d0">0.6645356024778333</data>
+    </edge>
+    <edge source="TENT5C" target="THRB">
+      <data key="d0">0.7272778445571909</data>
+    </edge>
+    <edge source="NDRG2" target="CAMK2B">
+      <data key="d0">0.7228614349652192</data>
+    </edge>
+    <edge source="NDRG2" target="ENPP4">
+      <data key="d0">0.47028565903176095</data>
+    </edge>
+    <edge source="NDRG2" target="MYB">
+      <data key="d0">-0.6553443241260122</data>
+    </edge>
+    <edge source="NDRG2" target="SELENOP">
+      <data key="d0">0.7702257574376351</data>
+    </edge>
+    <edge source="AGTR1" target="MALL">
+      <data key="d0">-0.6408347263791635</data>
+    </edge>
+    <edge source="AGTR1" target="STK26">
+      <data key="d0">0.5767403730650712</data>
+    </edge>
+    <edge source="CAMK2B" target="MALL">
+      <data key="d0">0.5724225833723505</data>
+    </edge>
+    <edge source="CAMK2B" target="MYB">
+      <data key="d0">-0.5864130168837205</data>
+    </edge>
+    <edge source="CAMK2B" target="KLHDC7B">
+      <data key="d0">-0.6975518934710598</data>
+    </edge>
+    <edge source="CAMK2B" target="THRB">
+      <data key="d0">0.7802339136183434</data>
+    </edge>
+    <edge source="CAMK2B" target="STK26">
+      <data key="d0">-0.679812985703406</data>
+    </edge>
+    <edge source="IL1A" target="THRB">
+      <data key="d0">-0.6431661874328093</data>
+    </edge>
+    <edge source="IL1A" target="KCNN4">
+      <data key="d0">-0.28982657213976065</data>
+    </edge>
+    <edge source="ENPP4" target="PPL">
+      <data key="d0">0.4740455616312799</data>
+    </edge>
+    <edge source="ENPP4" target="KCNN4">
+      <data key="d0">-0.3351446464056085</data>
+    </edge>
+    <edge source="MALL" target="KCNN4">
+      <data key="d0">0.5298323356221636</data>
+    </edge>
+    <edge source="RAB39B" target="PPL">
+      <data key="d0">-0.5287157513449665</data>
+    </edge>
+    <edge source="RAB39B" target="KLHDC7B">
+      <data key="d0">0.5656533834856543</data>
+    </edge>
+    <edge source="RAB39B" target="ST6GALNAC3">
+      <data key="d0">0.5548973266688925</data>
+    </edge>
+    <edge source="MYB" target="SELENOP">
+      <data key="d0">-0.5930151583519891</data>
+    </edge>
+    <edge source="PPL" target="SELENOP">
+      <data key="d0">0.8402377182188804</data>
+    </edge>
+    <edge source="PPL" target="WNT2">
+      <data key="d0">0.5519286564952445</data>
+    </edge>
+    <edge source="KLHDC7B" target="ST6GALNAC3">
+      <data key="d0">0.42661912738769764</data>
+    </edge>
+    <edge source="KLHDC7B" target="G0S2">
+      <data key="d0">0.4662878669702853</data>
+    </edge>
+    <edge source="KLHDC7B" target="THRB">
+      <data key="d0">-0.6604850154271094</data>
+    </edge>
+    <edge source="ST6GALNAC3" target="STK26">
+      <data key="d0">0.4549590052164955</data>
+    </edge>
+    <edge source="G0S2" target="STK26">
+      <data key="d0">0.48715437897387853</data>
+    </edge>
+    <edge source="THRB" target="WNT2">
+      <data key="d0">0.6598198220115731</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,15 @@
+Status	/home/byunjongwon/progerin_rnaseq/results/05_star/Control_1.Aligned.sortedByCoord.out.bam	/home/byunjongwon/progerin_rnaseq/results/05_star/Control_2.Aligned.sortedByCoord.out.bam	/home/byunjongwon/progerin_rnaseq/results/05_star/Control_3.Aligned.sortedByCoord.out.bam	/home/byunjongwon/progerin_rnaseq/results/05_star/Control_4.Aligned.sortedByCoord.out.bam	/home/byunjongwon/progerin_rnaseq/results/05_star/Progerin_1.Aligned.sortedByCoord.out.bam	/home/byunjongwon/progerin_rnaseq/results/05_star/Progerin_2.Aligned.sortedByCoord.out.bam	/home/byunjongwon/progerin_rnaseq/results/05_star/Progerin_3.Aligned.sortedByCoord.out.bam	/home/byunjongwon/progerin_rnaseq/results/05_star/Progerin_4.Aligned.sortedByCoord.out.bam
+Assigned	18632457	26342716	20951568	17876076	19327027	14369397	17899001	19199153
+Unassigned_Unmapped	0	0	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	2526571	3279434	7433531	2671185	3720977	1697292	2462363	2685957
+Unassigned_Secondary	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	724938	1345971	914204	620179	599094	431276	598901	759519
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	2487309	3083801	2581474	2385945	2508002	1751717	2152470	2618475

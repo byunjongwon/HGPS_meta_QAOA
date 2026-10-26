@@ -1,0 +1,19 @@
+# credentials
+.env
+# large public references (bash fetch_references.sh)
+01_rnaseq_processing/GSE165409_mouse_aorta/ref/*.gz
+01_rnaseq_processing/GSE198983_human_AoSMC/ref/*.gz
+# raw reads and alignments are never part of the repository
+*.fastq.gz
+*.fq.gz
+*.bam
+*.bai
+# ...except the tiny test subsets used by run_all.sh 01test
+!01_rnaseq_processing/*/test/**/*.fastq.gz
+!01_rnaseq_processing/*/test/**/*.bam
+!01_rnaseq_processing/*/test/**/*.bai
+# simulator-fallback outputs and local caches
+*_SIMULATOR_FALLBACK*
+__pycache__/
+.Rhistory
+.RData

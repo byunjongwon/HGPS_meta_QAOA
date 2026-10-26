@@ -1,0 +1,16 @@
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24449512/SRR24449512
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24449511/SRR24449511
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24449514/SRR24449514
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24449513/SRR24449513
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24449508/SRR24449508
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24449507/SRR24449507
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24449510/SRR24449510
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24449509/SRR24449509
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24449504/SRR24449504
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24449503/SRR24449503
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24449506/SRR24449506
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24449505/SRR24449505
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24449500/SRR24449500
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24449499/SRR24449499
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24449502/SRR24449502
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24449501/SRR24449501
